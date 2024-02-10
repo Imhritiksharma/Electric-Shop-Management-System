@@ -1,1 +1,1 @@
-# ElectricShopManagement
+# ElectricShopManagementSystem
